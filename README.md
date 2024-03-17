@@ -14,9 +14,9 @@ Move the mouse to control the turn<br/>
 T: Turn on light light<br/>
 F: Turn off light light
 
-## How does the program code work
+## How does the program work
 
-This OpenGL-based application showcases fundamental 3D graphics techniques, providing an immersive scene with Phong lighting, basic textures, skybox, and interactive controls:<br?
+This OpenGL-based application showcases fundamental 3D graphics techniques, providing an immersive scene with Phong lighting, basic textures, skybox, and interactive controls:<br>
 
 Basic Lighting: Implements the Phong lighting model, creating lifelike interactions between light and objects through ambient, diffuse, and specular reflections.<br>
 
@@ -26,7 +26,7 @@ Skybox: Uses a cubemap to render a surrounding environment, offering a distant b
 
 Mouse and Keyboard Controls: The user can control the movement by moving the angle of view with the mouse, WASD, and T and F can control the switch of light.<br>
 
-## How did I do it
+## 
 Special place: I created a new OpenGL texture object with my name "Qihao Han" surrounded by quadrangles using "name.png". Use `glBindTexture` to bind the newly created texture object to the currently active texture unit. It is to paste my name on the flashlight by this operation.<br/>
 
 Idea: The flashlight lighting idea came from a light source I saw on the BIlibili website. For this I produced a light switch interaction scene.<br/>
@@ -37,4 +37,4 @@ How I do it: Understanding lighting requires looking at shader, which is key to 
 YouTube: https://youtu.be/3km-amrwrBQ
 
 ## Git Repository
-GitHub: https://github.com/QihaoHan/COMP3016-CW2
+GitHub: 
