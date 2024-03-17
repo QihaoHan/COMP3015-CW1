@@ -9,7 +9,8 @@ Open:<br/>
 Open the file and double-click to run the Project_Template.exe file.
 
 Control:<br/>
-Interact with the keyboard<br/>
+Move the mouse to control the turn<br/>
+The "W", "A", "S" and "D" keys control movement.<br/>
 T: Turn on light light<br/>
 F: Turn off light light
 
