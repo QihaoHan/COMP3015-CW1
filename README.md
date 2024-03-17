@@ -11,8 +11,8 @@ Open the file and double-click to run the Project_Template.exe file.
 Control:<br/>
 Move the mouse to control the turn<br/>
 "W", "A", "S" and "D" control forward, left, backward and left movement respectively.<br/>
-T: Turn on light light<br/>
-F: Turn off light light
+T: Turn on the light<br/>
+F: Turn off the light
 
 ## How does the program work
 
