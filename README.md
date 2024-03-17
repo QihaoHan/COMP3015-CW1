@@ -30,4 +30,4 @@ Mouse and Keyboard Controls: The user can control the movement by moving the ang
 YouTube: 
 
 ## Git Repository
-GitHub: 
+GitHub: https://github.com/QihaoHan/COMP3015-CW1
