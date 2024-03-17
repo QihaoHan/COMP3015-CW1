@@ -27,7 +27,7 @@ Skybox: Uses a cubemap to render a surrounding environment, offering a distant b
 Mouse and Keyboard Controls: The user can control the movement by moving the angle of view with the mouse, WASD, and T and F can control the switch of light.<br>
 
 ## Video Link
-YouTube: 
+YouTube: https://youtu.be/WKNaovBvqaY
 
 ## Git Repository
 GitHub: https://github.com/QihaoHan/COMP3015-CW1
