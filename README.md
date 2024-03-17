@@ -1,4 +1,4 @@
-# COMP3016-CW2
+# COMP3015-CW1
 
 ## System Version
  Visual Studio Version: Visual Studio 2022(17.1.0)<br/>
@@ -10,7 +10,7 @@ Open the file and double-click to run the Project_Template.exe file.
 
 Control:<br/>
 Move the mouse to control the turn<br/>
-The "W", "A", "S" and "D" keys control movement.<br/>
+"W", "A", "S" and "D" control forward, left, backward and left movement respectively.<br/>
 T: Turn on light light<br/>
 F: Turn off light light
 
