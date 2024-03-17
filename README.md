@@ -6,15 +6,12 @@
 
 ## How to do open and control prototype
 Open:<br/>
-1. Decompress CW2.zip.
-2. Open the "CW2" folder and continue to click on the "Project3" folder.
-3. Move the "OpenGL" folder to "C:\Users\Public".
-4. Run the "Project3.exe" file<br/>
+Open the file and double-click to run the Project_Template.exe file.
 
 Control:<br/>
 Interact with the keyboard<br/>
-O: Turn on flashlight light source<br/>
-F: Turn off flashlight light source
+T: Turn on light light<br/>
+F: Turn off light light
 
 ## How does the program code work
 **Initialize and configure the system**:<br/>
